@@ -20,7 +20,7 @@ I've never used FontForge before and I kind of stumbled through the program, so 
 
 #### After
 
-![](http://i.imgur.com/rWO3vz9.png)
+![](http://i.imgur.com/nyAmVYe.png)
 
 ### Other Modifications
 
