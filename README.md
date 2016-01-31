@@ -27,3 +27,14 @@ This is a bit opinionated, as I never use `==` and `!=` so I have the strict ver
 ### Other Modifications
 
 * Single and Double quotes are now straight - used the glyphs in [Inconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
+
+### Usage in Atom
+
+The editor Atom supports ligatures through the following:
+
+```css
+atom-text-editor {
+  font-family: 'Inconsolata', 'Courier New', Courier;
+  text-rendering: optimizeLegibility;
+}
+```
