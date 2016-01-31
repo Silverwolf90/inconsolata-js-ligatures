@@ -1,6 +1,6 @@
 # Inconsolata + JavaScript Ligatures
 
-This is the font of Inconsolata with some ligatures mostly only useful for people writing JavaScript. There are a few other modifications in addition to the ligatures. All the ligatures were originally taken from [Fira Code](https://github.com/tonsky/FiraCode) although I made some slight modifications.
+This is the font **Inconsolata** with some ligatures mostly useful for people writing JavaScript. There are a few other modifications in addition to the ligatures. All the ligatures were originally taken from [Fira Code](https://github.com/tonsky/FiraCode) although I made some slight modifications.
 
 I've never used FontForge before and I kind of stumbled through the program, so it's  more than likely I didn't do stuff according to best practices but it seems to work (on Windows 7 in Atom, untested anywhere else).
 
