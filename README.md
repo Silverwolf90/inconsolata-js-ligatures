@@ -22,6 +22,8 @@ I've never used FontForge before and I kind of stumbled through the program, so 
 
 ![](http://i.imgur.com/rWO3vz9.png?1)
 
+This is a bit opinionated, as I never use `==` and `!=` so I have the strict versions only take up 2 characters instead of 3.
+
 ### Other Modifications
 
 * Single and Double quotes are now straight - used the glyphs in [Inconsolata-dz](http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/)
