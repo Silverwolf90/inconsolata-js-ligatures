@@ -13,14 +13,19 @@ I've never used FontForge before and I kind of stumbled through the program, so 
 * `>=` Greater than or equal to
 * `||` Or
 * `&&` And
+* `//` Comment
+* `->` Thin Arrow
+* `::` function bind operator proposal
 
 #### Before
 
 ![](http://i.imgur.com/nyAmVYe.png)
+![](http://i.imgur.com/OWflWas.png)
 
 #### After
 
 ![](http://i.imgur.com/rWO3vz9.png?1)
+![](http://i.imgur.com/KSA1Ab7.png)
 
 This is a bit opinionated, as I never use `==` and `!=` so I have the strict versions only take up 2 characters instead of 3.
 
